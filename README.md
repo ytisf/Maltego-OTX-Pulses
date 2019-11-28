@@ -14,7 +14,7 @@ These are 3 transforms (transform-set) to do the following lookups:
 2. Import the `maltego-OTX.mtz` file directly to Maltego.
 3. Go to Maltego into the tab `Transforms` and hit `Transform Manager`.
 4. Find the transforms by typing `otx` on the search bar on the top right.
-5. Edit the `Command line` to point to your Python directory.
+5. Edit the `Command line` to point to your Python interpreter. You can find this using `which python` or `which python3`. 
 6. Edit the `Working Directory` to point to where you've copied the files (`X`).
 
 ## Appendix
